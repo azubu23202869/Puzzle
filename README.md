@@ -1,7 +1,6 @@
 # Puzzle
 
-網頁
-https://github.com/azubu23202869/Puzzle
+## [網頁](https://github.com/azubu23202869/Puzzle)
 
 ## [參考連結1](http://www.demodashi.com/demo/14449.html)
 ## [參考連結2](https://blog.csdn.net/weixin_41618135/article/details/106048854)
