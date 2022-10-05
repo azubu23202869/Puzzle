@@ -1,3 +1,3 @@
 # Puzzle
 
-## [網頁](https://github.com/azubu23202869/Puzzle)
+## [網頁](https://azubu23202869.github.io/Puzzle/)
